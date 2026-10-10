@@ -1,0 +1,6 @@
+# One indicator per line. Defanged (hxxp, [.]) forms are accepted.
+8.8.8.8
+example.com
+hxxps://example[.]org/login
+44d88612fea8a8f36de82e1278abb02f
+10.0.0.5
